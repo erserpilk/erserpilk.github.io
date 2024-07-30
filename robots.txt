@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erserpilk.github.io/sitemap.html.gz
+Sitemap: https://erserpilk.github.io/app/sitemap.html.gz
+Sitemap: https://erserpilk.github.io/assets/sitemap.html.gz
+Sitemap: https://erserpilk.github.io/css/sitemap.html.gz
+Sitemap: https://erserpilk.github.io/includes/sitemap.html.gz
+Sitemap: https://erserpilk.github.io/item/sitemap.html.gz
+Sitemap: https://erserpilk.github.io/src/sitemap.html.gz
